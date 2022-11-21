@@ -1,5 +1,7 @@
 # ⚡️ Household Energy Consumption Dashboard
 
+![Dashboard](https://github.com/alfie-danish/household-energy-consumption-dashboard/blob/main/energy-consumption-dashboard.png)
+
 ## 🔗 Project Links
 
 - [Dashboard](https://docs.google.com/spreadsheets/d/1S0l2QUgZNw9ZwnmDHHIgiJJeS9ELF1rScHqoGgIfgzU/edit#gid=2025871769)
