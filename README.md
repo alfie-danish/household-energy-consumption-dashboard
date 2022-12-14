@@ -9,7 +9,7 @@
 
 ## 💡Introduction
 
-In the year 2022, households across the globe saw energy prices skyrocketing through the roof. At the same time, we are seeing quickly depleting energy reserves in many nations. In an attempt to be more sustainable and conscious about energy spending, I will create a dashboard to track my energy consumption. 
+In the year 2022, households across the globe saw energy prices skyrocketing through the roof. At the same time, we are seeing quickly depleting energy reserves in many nations. In an attempt to be more sustainable and conscious about energy spending. The following dashboard aims to track the energy consumption of a typical household. 
 
 ## ✅ Project Details
 
