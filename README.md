@@ -51,5 +51,3 @@ In the year 2022, households across the globe saw energy prices skyrocketing thr
 ## 🤝 Get In Touch
 
 Feedbacks are welcome!
-
-<p><span style="color: rgb(184, 49, 47);">hello</span></p>
