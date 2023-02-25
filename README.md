@@ -5,7 +5,7 @@
 ## 🔗 Project Links
 
 - [Dashboard](https://docs.google.com/spreadsheets/d/1S0l2QUgZNw9ZwnmDHHIgiJJeS9ELF1rScHqoGgIfgzU/edit#gid=2025871769)
-- [Python script](https://github.com/alfie-danish/household-energy-consumption-dashboard/blob/main/python_script.ipynb)
+- [Python script](https://github.com/alfie-danish/household-energy-consumption-dashboard/blob/d3afc1eef78dbcef8393c02ea61461a34c068014/python_data_cleaning(energy_consumption).ipynb)
 
 ## 💡Introduction
 
