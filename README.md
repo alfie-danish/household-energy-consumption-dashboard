@@ -30,8 +30,8 @@ In the year 2022, households across the globe saw energy prices skyrocketing thr
 ### **Methods:**
 
 - By connecting Google Sheet + Python and using GSPREAD library, I can use Python for data wrangling
-- By only inputting meter reading into Google Sheets on a monthly basis, I can utilise Panda’s INTERPOLATE method to forward fill missing values between each data entry day
-- Dashboard will be produced in Google Sheets. Data prep within relies heavily on Google’s QUERY and ARRAYFORMULA functions
+- By only inputting meter reading into Google Sheets on a monthly basis, I can utilise Panda’s **INTERPOLATE** method to forward fill missing values between each data entry day
+- Dashboard will be produced in Google Sheets. Data prep within relies heavily on Google’s **QUERY** and **ARRAYFORMULA** functions
 
 ### Data Source:
 
