@@ -32,6 +32,16 @@ In the year 2022, households across the globe saw energy prices skyrocketing thr
 - By connecting Google Sheet + Python and using GSPREAD library, I can use Python for data wrangling
 - By only inputting meter reading into Google Sheets on a monthly basis, I can utilise Panda’s **INTERPOLATE** method to forward fill missing values between each data entry day
 - Dashboard will be produced in Google Sheets. Data prep within relies heavily on Google’s **QUERY** and **ARRAYFORMULA** functions
+<table><tr><td valign="top" width="50%">
+<img src="https://github.com/alfie-danish/household-energy-consumption-dashboard/blob/main/images/query1.png" align="center" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github.com/alfie-danish/household-energy-consumption-dashboard/blob/main/images/query2.png" align="center" style="width: 100%" />
+</div>  
+
+</td></tr></table>  
 
 ### Data Source:
 
